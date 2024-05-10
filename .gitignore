@@ -1,0 +1,9 @@
+#Node.js
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.local
+
+# sequelize configuration
+config/config.json
